@@ -1,0 +1,12 @@
+{
+  "name": "node-assignment-4",
+  "version": "1.0.0",
+  "description": "This assignment is about putting my own npm to the website. Then install the npm that I created in another file for the project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
