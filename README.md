@@ -3,15 +3,37 @@
 This assignment is about putting my npm on the website. Then install the npm that I created in another file for the project.
 
 ## Cloned the repo.
-<<<<<<< HEAD
+
 ![alt text](image.png)
 
 With the terminal I cloned down my respository.
-=======
-![image](https://github.com/Pathway-3/Node-Assignment-4/assets/146011829/45ef8fad-1078-4657-b354-8315effcef93)
 
-With the terminal, I cloned down my repository.
->>>>>>> 24f6c52bdf48153c4aa6e9e3064c9fbaf79f97a8
+## Repository
 
+When the repository was created I created a README file with a License and a .gitignore file that contains my test files.
 
+## License
 
+This project is licensed under the MIT license.
+
+## Javascipt
+
+### Merge Arrays
+
+![alt text](image-1.png)
+
+This is my script that I used to merge arrays. This script will merge my arrays into one array.
+
+### Remove Duplitate Arrays
+
+![alt text](image-2.png)
+
+This is my script that I used to remove duplicate arrays from a main array. It will take an array of arrays and return a new array with no duplicates.
+
+## NPM Login
+
+![alt text](Screenshot%202024-03-31%20130904.png)
+
+I logged in with npm using the command `npm login` and entered my username, password, and email address for authentication. and published my npm module.
+
+![alt text](Screenshot%202024-03-31%20130913.png)
